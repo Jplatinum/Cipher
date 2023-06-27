@@ -1,0 +1,55 @@
+.container {
+    text-align: center;
+}
+
+.btn {
+    height: 55px;
+    margin-left: 10px;
+    padding: 5px 5px 0 5px;
+    background-color: #19f7b8;
+    border-radius: 10px;
+    cursor: grab;
+}
+
+.cipher-text {
+    height: 45px;
+    width: 40%;
+    font-size: 22.5px;
+    line-height: 23px;
+    padding-left: 10px;
+    margin-top: 25px;
+    border: 1px solid black;
+}
+
+.cipher {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+.header {
+    flex: 1;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    display: inline-flex;
+}
+
+.icon {
+    padding: 2.5px;
+    font-size: 2.75em;
+    background: linear-gradient(150deg, #ff99f8, #663bf5, #69f5f0);
+    border: 1px solid #e3106f;
+}
+
+.title {
+    font-family:'Courier New', Courier, monospace;
+    font-weight: 500;
+    font-size: 30px;
+    padding-left: 7.5px;
+}
+
+.page {
+    border: 1px double #e558f5;
+    background: linear-gradient(150deg, #2effb2, #9d2eff);
+}
